@@ -1,0 +1,149 @@
+/* nav-style */
+#nav-logo {
+  color: #fd7e14;
+}
+#nav-text {
+  color: #fd7e14;
+  font-weight: bolder;
+}
+/* shopnow-style */
+#order-now {
+  background-color: rgb(122, 72, 10);
+  border: none;
+  font-weight: bold;
+  padding: 10px;
+  width: 140px;
+  color: aliceblue;
+  border-radius: 7px;
+}
+
+/* advertice style */
+#ad-section {
+  background-color: #fd7e14;
+  color: aliceblue;
+  padding: 100px;
+}
+/* deal of the day style */
+#deal-content {
+  color: aliceblue;
+  background-color: #fd7e14;
+  padding: 100px;
+}
+/* about style of text */
+#about-text {
+  line-height: 1;
+  width: 100%;
+  text-indent: 50px;
+}
+/* input style */
+#search-input {
+  color: aliceblue;
+}
+#sale-section {
+  padding: 100px;
+}
+/* hero-section */
+#hero-section {
+  padding: 50px;
+}
+/* laod more button */
+#load-more {
+  color: #fd7e14;
+  padding: 10px;
+  width: 150px;
+  border: #fd7e14;
+  font-weight: bold;
+  border-radius: 2px;
+}
+#sale-section-p {
+  padding: 100px;
+}
+#load-more {
+  color: #fd7e14;
+  padding: 10px;
+  width: 150px;
+  border: #fd7e14;
+  font-weight: bold;
+}
+#discription {
+  padding: 100px;
+}
+#check-out {
+  padding: 70px;
+  display: flex;
+  justify-content: center;
+} /* Make the image in the hero section hide when you resize */
+#payment {
+  padding: 50px;
+  width: 350px;
+  line-height: 2;
+  padding-right: 120px;
+}
+#radio-text {
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+}
+#birthday-section {
+  padding: 150px;
+  margin-top: 100px;
+  background-color: #fd7e14;
+  color: aliceblue;
+  text-align: center;
+  background-image: url("assets/bestsellers/mothers.png");
+}
+#mothers-section {
+  padding: 30px;
+  background-color: #42403e;
+  color: aliceblue;
+}
+#mothers-text {
+  padding-left: 20px;
+}
+#mothers-text h2 {
+  font-size: 60px;
+  color: #fd7e14;
+}
+#mothers-text p {
+  font-size: 28px;
+  font-family: sans-serif;
+}
+#best-seller {
+  padding: 100px;
+}
+#order-text {
+  color: #fd7e14;
+}
+
+/* fixed css */
+
+/* Hero-Section */
+#shop-hero-btt {
+  padding: 20px;
+  border-radius: 5px;
+  border-color: orange;
+  background-color: black;
+}
+/* from shop-now */
+#shop-now-btt {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: aliceblue;
+  font-weight: bold;
+  padding: 10px;
+  width: 140px;
+  background-color: #813f09;
+}
+#hero-image {
+  background-color: #fd7e14;
+  border-radius: 5px;
+}
+
+/* Setion A */
+#hero-background {
+  background-color: rgb(226, 117, 7);
+}
+#section-a {
+  background-color: rgb(226, 117, 7);
+  padding: 100px;
+}
