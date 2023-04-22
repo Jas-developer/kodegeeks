@@ -1,0 +1,131 @@
+/* nav-style */
+#nav-logo {
+  color: #fd7e14;
+}
+#nav-text {
+  color: #fd7e14;
+  font-weight: bolder;
+}
+/* shopnow-style */
+#shop-now {
+  color: aliceblue;
+  font-weight: bold;
+  padding: 10px;
+  width: 140px;
+  background-color: #fd7e14;
+}
+#order-now {
+  background-color: rgb(122, 72, 10);
+  border: none;
+  font-weight: bold;
+  padding: 10px;
+  width: 140px;
+  color: aliceblue;
+  border-radius: 7px;
+}
+
+/* advertice style */
+#ad-section {
+  background-color: #fd7e14;
+  color: aliceblue;
+  padding: 170px;
+}
+/* deal of the day style */
+#deal-content {
+  color: aliceblue;
+  background-color: #fd7e14;
+  padding: 100px;
+}
+/* about style of text */
+#about-text {
+  line-height: 1;
+  width: 100%;
+  text-indent: 50px;
+}
+/* input style */
+#search-input {
+  color: aliceblue;
+}
+#sale-section {
+  padding: 100px;
+}
+/* hero-section */
+#hero-section {
+  padding: 50px;
+}
+#background-hero {
+  background-image: url("assets/bestsellers/pexels-andrea.png");
+  height: 650px;
+}
+#image-div {
+  background-color: #fd7e14;
+  border-radius: 5px;
+}
+/* laod more button */
+#load-more {
+  color: #fd7e14;
+  padding: 10px;
+  width: 150px;
+  border: #fd7e14;
+  font-weight: bold;
+  border-radius: 2px;
+}
+#sale-section-p {
+  padding: 100px;
+}
+#load-more {
+  color: #fd7e14;
+  padding: 10px;
+  width: 150px;
+  border: #fd7e14;
+  font-weight: bold;
+}
+#discription {
+  padding: 100px;
+}
+#check-out {
+  padding: 70px;
+  display: flex;
+  justify-content: center;
+} /* Make the image in the hero section hide when you resize */
+#payment {
+  padding: 50px;
+  width: 350px;
+  line-height: 2;
+  padding-right: 120px;
+}
+#radio-text {
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+}
+#birthday-section {
+  padding: 150px;
+  margin-top: 100px;
+  background-color: #fd7e14;
+  color: aliceblue;
+  text-align: center;
+  background-image: url("assets/bestsellers/mothers.png");
+}
+#mothers-section {
+  padding: 30px;
+  background-color: #42403e;
+  color: aliceblue;
+}
+#mothers-text {
+  padding-left: 20px;
+}
+#mothers-text h2 {
+  font-size: 60px;
+  color: #fd7e14;
+}
+#mothers-text p {
+  font-size: 28px;
+  font-family: sans-serif;
+}
+#best-seller {
+  padding: 100px;
+}
+#order-text {
+  color: #fd7e14;
+}
