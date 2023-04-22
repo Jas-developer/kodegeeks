@@ -146,8 +146,6 @@
 }
 #button-hover:hover {
   border-radius: 10px;
-  width: 130px;
-  height: 100px;
   box-shadow: 10px 10px 124px -22px rgba(226, 153, 36, 0.63);
   -webkit-box-shadow: 10px 10px 124px -22px rgba(226, 153, 36, 0.63);
   -moz-box-shadow: 10px 10px 124px -22px rgba(226, 153, 36, 0.63);
