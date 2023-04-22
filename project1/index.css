@@ -7,13 +7,6 @@
   font-weight: bolder;
 }
 /* shopnow-style */
-#shop-now {
-  color: aliceblue;
-  font-weight: bold;
-  padding: 10px;
-  width: 140px;
-  background-color: #fd7e14;
-}
 #order-now {
   background-color: rgb(122, 72, 10);
   border: none;
@@ -28,7 +21,7 @@
 #ad-section {
   background-color: #fd7e14;
   color: aliceblue;
-  padding: 170px;
+  padding: 100px;
 }
 /* deal of the day style */
 #deal-content {
@@ -52,14 +45,6 @@
 /* hero-section */
 #hero-section {
   padding: 50px;
-}
-#background-hero {
-  background-image: url("assets/bestsellers/pexels-andrea.png");
-  height: 650px;
-}
-#image-div {
-  background-color: #fd7e14;
-  border-radius: 5px;
 }
 /* laod more button */
 #load-more {
@@ -128,4 +113,37 @@
 }
 #order-text {
   color: #fd7e14;
+}
+
+/* fixed css */
+
+/* Hero-Section */
+#shop-hero-btt {
+  padding: 20px;
+  border-radius: 5px;
+  border-color: orange;
+  background-color: black;
+}
+/* from shop-now */
+#shop-now-btt {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: aliceblue;
+  font-weight: bold;
+  padding: 10px;
+  width: 140px;
+  background-color: #813f09;
+}
+#hero-image {
+  background-color: #fd7e14;
+  border-radius: 5px;
+}
+
+/* Setion A */
+#hero-background {
+  background-color: rgb(226, 117, 7);
+}
+#section-a {
+  background-color: rgb(226, 117, 7);
+  padding: 100px;
 }
