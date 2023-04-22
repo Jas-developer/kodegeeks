@@ -58,13 +58,7 @@
 #sale-section-p {
   padding: 100px;
 }
-#load-more {
-  color: #fd7e14;
-  padding: 10px;
-  width: 150px;
-  border: #fd7e14;
-  font-weight: bold;
-}
+
 #discription {
   padding: 100px;
 }
@@ -146,4 +140,33 @@
 #section-a {
   background-color: rgb(226, 117, 7);
   padding: 100px;
+}
+#button-hover {
+  transition: all 1.2s ease-out;
+}
+#button-hover:hover {
+  border-radius: 10px;
+  width: 240px;
+  height: 240px;
+  box-shadow: 10px 10px 124px -22px rgba(226, 153, 36, 0.63);
+  -webkit-box-shadow: 10px 10px 124px -22px rgba(226, 153, 36, 0.63);
+  -moz-box-shadow: 10px 10px 124px -22px rgba(226, 153, 36, 0.63);
+  cursor: pointer;
+}
+#shop-btt-hover {
+  transition: all 1s ease;
+  color: rgb(249, 251, 252);
+  padding: 10px;
+  width: 150px;
+  border: #fd7e14;
+  font-weight: bold;
+  background-color: #c4b3a4;
+  border-radius: 5px;
+}
+#shop-btt-hover:hover {
+  background-color: #fd7e14;
+  color: aliceblue;
+  box-shadow: 10px 10px 124px -22px rgba(14, 9, 3, 0.63);
+  -webkit-box-shadow: 10px 10px 124px -22px rgba(14, 9, 3, 0.63);
+  -moz-box-shadow: 10px 10px 124px -22px rgba(14, 9, 3, 0.63);
 }
