@@ -175,3 +175,8 @@
 #coursel {
   padding: 80px;
 }
+#mother-image {
+  width: 370px;
+  display: flex;
+  justify-content: center;
+}
