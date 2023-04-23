@@ -79,12 +79,11 @@
   flex-direction: row;
 }
 #birthday-section {
-  padding: 150px;
+  padding: 50px;
   margin-top: 100px;
-  background-color: #fd7e14;
+  background-color: #42403e;
   color: aliceblue;
   text-align: center;
-  background-image: url("assets/bestsellers/mothers.png");
 }
 #mothers-section {
   padding: 30px;
@@ -167,4 +166,12 @@
   box-shadow: 10px 10px 124px -22px rgba(14, 9, 3, 0.63);
   -webkit-box-shadow: 10px 10px 124px -22px rgba(14, 9, 3, 0.63);
   -moz-box-shadow: 10px 10px 124px -22px rgba(14, 9, 3, 0.63);
+}
+#birthday-image {
+  display: flex;
+  justify-content: flex-start;
+  width: 300px;
+}
+#coursel {
+  padding: 80px;
 }
