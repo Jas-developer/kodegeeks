@@ -149,6 +149,7 @@
   box-shadow: 10px 10px 139px -16px rgba(221, 131, 24, 0.75);
   -webkit-box-shadow: 10px 10px 139px -16px rgba(221, 131, 24, 0.75);
   -moz-box-shadow: 10px 10px 139px -16px rgba(221, 131, 24, 0.75);
+  cursor: pointer;
 }
 #shop-btt-hover {
   transition: all 1s ease;
