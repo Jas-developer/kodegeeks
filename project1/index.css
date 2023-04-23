@@ -188,3 +188,23 @@
 #order-table {
   padding: 0px;
 }
+#order-discription {
+  border-radius: 5px;
+  border: solid 1px orange;
+  margin: 20px;
+}
+#order-pay {
+  margin-top: 60px;
+}
+#place-order {
+  color: aliceblue;
+  background-color: orange;
+  padding: 8px;
+  border: none;
+  border-radius: 3px;
+  transition: all 1s;
+  text-decoration: none;
+}
+#place-order:hover {
+  background-color: beige;
+}
