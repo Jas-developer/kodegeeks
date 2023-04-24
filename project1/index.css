@@ -55,9 +55,6 @@
   font-weight: bold;
   border-radius: 2px;
 }
-#sale-section-p {
-  padding: 100px;
-}
 
 #discription {
   padding: 100px;
@@ -138,9 +135,9 @@
 #hero-background {
   background-color: rgb(226, 117, 7);
 }
-#section-a {
+#SECTION-B {
   background-color: rgb(226, 117, 7);
-  padding: 100px;
+  padding: 50px;
 }
 #button-hover {
   transition: all 1.2s ease-out;
@@ -191,7 +188,6 @@
 #order-discription {
   border-radius: 5px;
   border: solid 1px orange;
-  margin: 20px;
 }
 #order-pay {
   margin-top: 60px;
