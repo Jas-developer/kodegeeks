@@ -1,4 +1,3 @@
-/* nav-style */
 #nav-logo {
   color: #fd7e14;
 }
@@ -6,7 +5,7 @@
   color: #fd7e14;
   font-weight: bolder;
 }
-/* shopnow-style */
+
 #order-now {
   background-color: rgb(122, 72, 10);
   border: none;
@@ -17,36 +16,33 @@
   border-radius: 7px;
 }
 
-/* advertice style */
 #ad-section {
   background-color: #fd7e14;
   color: aliceblue;
   padding: 100px;
 }
-/* deal of the day style */
+
 #deal-content {
   color: aliceblue;
   background-color: #fd7e14;
   padding: 100px;
 }
-/* about style of text */
+
 #about-text {
   line-height: 1;
   width: 100%;
   text-indent: 50px;
 }
-/* input style */
 #search-input {
   color: aliceblue;
 }
 #sale-section {
   padding: 100px;
 }
-/* hero-section */
+
 #hero-section {
   padding: 50px;
 }
-/* laod more button */
 #load-more {
   color: #fd7e14;
   padding: 10px;
@@ -63,7 +59,7 @@
   padding: 70px;
   display: flex;
   justify-content: center;
-} /* Make the image in the hero section hide when you resize */
+}
 #payment {
   padding: 50px;
   width: 350px;
@@ -107,16 +103,12 @@
   padding: 20px;
 }
 
-/* fixed css */
-
-/* Hero-Section */
 #shop-hero-btt {
   padding: 20px;
   border-radius: 5px;
   border-color: orange;
   background-color: black;
 }
-/* from shop-now */
 #shop-now-btt {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -130,8 +122,6 @@
   background-color: #fd7e14;
   border-radius: 5px;
 }
-
-/* Setion A */
 #hero-background {
   background-color: rgb(226, 117, 7);
 }
@@ -200,7 +190,4 @@
   border-radius: 3px;
   transition: all 1s;
   text-decoration: none;
-}
-#place-order:hover {
-  background-color: beige;
 }
