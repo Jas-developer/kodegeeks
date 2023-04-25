@@ -82,10 +82,10 @@
   color: aliceblue;
   text-align: center;
 }
-#mothers-section {
-  padding: 30px;
+.hero-mother {
   background-color: #42403e;
   color: aliceblue;
+  padding: 100px;
 }
 #mothers-text {
   padding-left: 20px;
@@ -173,9 +173,7 @@
   display: flex;
   justify-content: center;
 }
-#bday {
-  background-color: #42403e;
-}
+
 #order-table {
   padding: 0px;
 }
